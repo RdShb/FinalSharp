@@ -1,0 +1,15 @@
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FinalSharp\obj\Debug\net7.0\FinalSharp.csproj.AssemblyReference.cache
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FinalSharp\obj\Debug\net7.0\FinalSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FinalSharp\obj\Debug\net7.0\FinalSharp.AssemblyInfoInputs.cache
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FinalSharp\obj\Debug\net7.0\FinalSharp.AssemblyInfo.cs
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FinalSharp\obj\Debug\net7.0\FinalSharp.csproj.CoreCompileInputs.cache
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FinalSharp\bin\Debug\net7.0\FinalSharp.exe
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FinalSharp\bin\Debug\net7.0\FinalSharp.deps.json
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FinalSharp\bin\Debug\net7.0\FinalSharp.runtimeconfig.json
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FinalSharp\bin\Debug\net7.0\FinalSharp.dll
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FinalSharp\bin\Debug\net7.0\FinalSharp.pdb
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FinalSharp\obj\Debug\net7.0\FinalSharp.dll
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FinalSharp\obj\Debug\net7.0\refint\FinalSharp.dll
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FinalSharp\obj\Debug\net7.0\FinalSharp.pdb
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FinalSharp\obj\Debug\net7.0\FinalSharp.genruntimeconfig.cache
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FinalSharp\obj\Debug\net7.0\ref\FinalSharp.dll
