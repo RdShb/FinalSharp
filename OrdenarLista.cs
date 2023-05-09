@@ -2,15 +2,20 @@ class Ordenar
 {
     public void ordenarLista()
     {
-        string[] nombres = { "Juan", "Maria", "Ana", "Pedro" };
+            List<string> listaNombres = new List<string>();
+            while(true){
+                Console.WriteLine("Introduce un nombre o Enter para terminar: ");
+                string? nombre = Console.ReadLine();
+                if (nombre == "") break;
+                else if(nombre !=null) listaNombres.Add(nombre);
+            }
+            listaNombres.Sort();
 
-        Array.Sort(nombres);
+            Console.WriteLine("Lista ordenada alfabéticamente:");
 
-        Console.WriteLine("Lista ordenada alfabéticamente:");
-
-        foreach (string nombre in nombres)
-        {
-            Console.WriteLine(nombre);
+            foreach (string nombre in listaNombres)
+            {
+                Console.WriteLine(nombre);
+            }
         }
-    }
 }
