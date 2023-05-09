@@ -14,11 +14,11 @@ class NumPosNeg
         }
 
         if (num > 0)
-            Console.WriteLine($"{0} es un número positivo", num);
+            Console.WriteLine($"{num} es un número positivo", num);
         else if (num < 0)
-            Console.WriteLine($"{0} es un número negativo", num);
+            Console.WriteLine($"{num} es un número negativo", num);
         else
-            Console.WriteLine($"{0} es cero", num);
+            Console.WriteLine($"{num} es cero", num);
 
         Console.ReadKey();
     }

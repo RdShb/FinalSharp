@@ -74,7 +74,11 @@ do
             }
         Console.WriteLine("Desea acceder a otra aplicacion? Y/N ");
         string? sino = Console.ReadLine();
-        if (sino != "Y")
+        if (sino == "Y")
+        {
+            sino = sino.ToLower();    
+        }
+        if (sino != "y")
             {var = 1;
             Console.WriteLine("Hasta luego");
             Console.ReadLine();
